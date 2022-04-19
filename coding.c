@@ -24,6 +24,7 @@ scanf("%f",&mps);
  kmph=(5/18)*mps;
  printf("%.f mps = %.2f kmph",mps,kmph);
  default:
+ printf("assign correct operator");
      break;
  }
 
